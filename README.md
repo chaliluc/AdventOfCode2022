@@ -1,2 +1,9 @@
 # AdventOfCode2022
-My take on the Advent of Code 2022 challenge
+This is my take on the Advent of Code challenge 2022 https://adventofcode.com/
+
+Being an ABAPer, this is of course in ABAP.
+
+Enjoy!
+
+
+## Files:
