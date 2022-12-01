@@ -6,6 +6,7 @@ Being an ABAPer, this is of course in ABAP.
 Enjoy!
 
 
+
 ## Files:
 **zcl_lc_adv2022** -> Helper class for daily challenges.
 
