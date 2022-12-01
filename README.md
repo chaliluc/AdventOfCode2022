@@ -7,3 +7,5 @@ Enjoy!
 
 
 ## Files:
+zcl_lc_adv2022: Helper class for daily challenges.
+zlc_advent22_day1: Day 1 challenge.
