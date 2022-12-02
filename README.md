@@ -11,3 +11,5 @@ Enjoy!
 **zcl_lc_adv2022** -> Helper class for daily challenges.
 
 **zlc_advent22_day1** -> Day 1 challenge.
+
+**zlc_advent22_day2** -> Day 2 challenge.
