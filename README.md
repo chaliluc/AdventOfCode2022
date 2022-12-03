@@ -8,10 +8,10 @@ Enjoy!
 
 
 ## Files:
-**zcl_lc_adv2022** -> Helper class for daily challenges.
+**zcl_lc_adv2022.abap** -> Helper class for daily challenges.
 
-**zlc_advent22_day1** -> Day 1 challenge.
+**zlc_advent22_day1.abap** -> Day 1 challenge.
 
-**zlc_advent22_day2** -> Day 2 challenge.
+**zlc_advent22_day2.abap** -> Day 2 challenge.
 
-**zlc_advent22_day3** -> Day 3 challenge.
+**zlc_advent22_day3.abap** -> Day 3 challenge.
