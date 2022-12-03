@@ -13,3 +13,5 @@ Enjoy!
 **zlc_advent22_day1** -> Day 1 challenge.
 
 **zlc_advent22_day2** -> Day 2 challenge.
+
+**zlc_advent22_day3** -> Day 3 challenge.
