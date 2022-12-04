@@ -15,3 +15,5 @@ Enjoy!
 **zlc_advent22_day2.abap** -> Day 2 challenge.
 
 **zlc_advent22_day3.abap** -> Day 3 challenge.
+
+**zlc_advent22_day4.abap** -> Day 4 challenge.
