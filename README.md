@@ -27,3 +27,5 @@ For the second part (partial overlap) I simply inserted in an internal table wit
 **zlc_advent22_day5.abap** -> Day 5 challenge.
 That one was also achieved with simple internal tables manipulations. The biggest challenge was the parsing of the input. It would have been probably easier with other languages, but my goal is to complete as much challenges as possible with ABAP. 
 
+**zlc_advent22_day6.abap** -> Day 6 challenge.
+Yet another one achieved with the use of an internal table with a unique key. As soon as one of the characters in the sequence is not unique (SY-SUBRC = 4 after inserting the character) the loop is stoped, and we move on to the next input character.
