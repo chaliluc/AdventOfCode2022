@@ -29,3 +29,10 @@ That one was also achieved with simple internal tables manipulations. The bigges
 
 **zlc_advent22_day6.abap** -> Day 6 challenge.
 Yet another one achieved with the use of an internal table with a unique key. As soon as one of the characters in the sequence is not unique (SY-SUBRC = 4 after inserting the character) the loop is stoped, and we move on to the next input character.
+
+**zlc_advent22_day8.abap** -> Day 8 challenge.
+Navigating the trees using a table of table of integers to simulate an array. Trees (elements of the array) are adressed directly using array[row][col] instead of typical READ or LOOP statements.
+
+**zlc_advent22_day10.abap** -> Day 10 challenge.
+Another string manipulation exercise with local data structures, ternary operator. The RENDER_SCREEN method returns a table with all screen rows, passed by value. For performance reasons, this would be a big NO in normal circumstances, but for an exercise like this, I'm ok with it.
+
