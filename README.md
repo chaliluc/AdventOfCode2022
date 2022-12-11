@@ -36,3 +36,5 @@ Navigating the trees using a table of table of integers to simulate an array. Tr
 **zlc_advent22_day10.abap** -> Day 10 challenge.
 Another string manipulation exercise with local data structures, ternary operator. The RENDER_SCREEN method returns a table with all screen rows, passed by value. For performance reasons, this would be a big NO in normal circumstances, but for an exercise like this, I'm ok with it.
 
+**zlc_advent22_day11.abap** -> Day 11 challenge.
+This only includes part 1 with self-managed monkeys. Again, super ugly parsing of the input table but everything else is self-explanatory simple.
